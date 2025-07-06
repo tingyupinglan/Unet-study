@@ -5,3 +5,5 @@ mnist_fation_train.py：使用unet训练mnist fashion数据
 unet_model.py：unet网络模型定义
 unet_train_mri_data_set.py：训练来自kaggle的MRI图像数据
 mri_data_set.py: 读取来自kaggel的MRI图像数据
+unet_model_3D.py：为mri的3D数据写的unet模型
+unet_train_3D.py：为mri的3D数据写的训练过程，需要更多的显存和内存
